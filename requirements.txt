@@ -23,4 +23,5 @@ OpenHowNet
 pycld2
 click<8.1.0
 pinyin
+tensorflow>=2.12.0
 
